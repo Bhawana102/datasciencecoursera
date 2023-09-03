@@ -2,7 +2,9 @@
 title: "HelloWorld"
 author: "you"
 date: "2023-09-03"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ## This is markdown file.
